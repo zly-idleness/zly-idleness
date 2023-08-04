@@ -8,9 +8,11 @@
 
 - 🌱 I’m currently learning **AIGC, OS, Web Dev**
 
+- 👨‍💻 I'm working on these right now **PKUOS, NJUPA, FastAPI**
+
 - 📫 How to reach me **zly.idleness@gmail.com**
 
-- 👨‍💻 I'm working on these right now **PKUOS, NJUPA, FastAPI**
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+Maybe+Slow)](https://git.io/typing-svg)
 
