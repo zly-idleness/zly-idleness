@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zly-idleness&label=Profile%20views&color=0e75b6&style=flat" alt="zly-idleness" /> </p>
 
-- 🔭 I’m currently working on [YSYX](ysyx.oscc.cc/)
 
 - 🌱 I’m currently learning **AIGC, OS, Web Dev**
 
