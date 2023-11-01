@@ -19,17 +19,17 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 29 September 2023 - To: 29 October 2023
+From: 30 September 2023 - To: 30 October 2023
 
-Total Time: 66 hrs 21 mins
+Total Time: 68 hrs 44 mins
 
-C++                38 hrs 18 mins  >>>>>>>>>>>>>>-----------   56.49 %
-Rust               9 hrs 7 mins    >>>----------------------   13.44 %
-C                  5 hrs 20 mins   >>-----------------------   07.89 %
-Python             3 hrs 15 mins   >------------------------   04.81 %
-Go                 2 hrs 36 mins   >------------------------   03.83 %
-Markdown           1 hr 38 mins    >------------------------   02.42 %
-Other              1 hr 28 mins    >------------------------   02.16 %
+C++                38 hrs 18 mins  >>>>>>>>>>>>>>-----------   54.57 %
+Rust               9 hrs 7 mins    >>>----------------------   12.99 %
+C                  5 hrs 20 mins   >>-----------------------   07.62 %
+Go                 4 hrs           >------------------------   05.70 %
+Python             3 hrs 59 mins   >------------------------   05.69 %
+Markdown           1 hr 53 mins    >------------------------   02.69 %
+Other              1 hr 28 mins    >------------------------   02.09 %
 ```
 
 <!--END_SECTION:waka-->
