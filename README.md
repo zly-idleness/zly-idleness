@@ -23,9 +23,17 @@ From: 13 November 2023 - To: 20 November 2023
 
 Total Time: 12 hrs 51 mins
 
-C++           5 hrs 46 mins   >>>>>>>>>>---------------   40.08 %
-Python        4 hrs           >>>>>>>------------------   27.86 %
-Other         1 hr 33 mins    >>>----------------------   10.80 %
+| Language | Time | Percentage |
+| --- | --- | --- |
+| C++ | 5 hrs 46 mins | 40.08% |
+| Python | 4 hrs | 27.86% |
+| Other | 1 hr 33 mins | 10.80% |
+| V | 52 mins | 6.02% |
+| CMake | 50 mins | 5.79% |
+| Makefile | 34 mins | 3.96% |
+| Git Config | 12 mins | 1.50% |
+| C | 10 mins | 1.19% |
+| Bash | 9 mins | 1.10% |
 ```
 
 <!--END_SECTION:waka-->
