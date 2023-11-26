@@ -19,16 +19,16 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 17 November 2023 - To: 24 November 2023
+From: 18 November 2023 - To: 25 November 2023
 
-Total Time: 10 hrs 42 mins
+Total Time: 7 hrs 52 mins
 
-C++          3 hrs 49 mins   >>>>>>>>>----------------   35.13 %
-Python       3 hrs 37 mins   >>>>>>>>-----------------   33.23 %
-V            1 hr 47 mins    >>>>---------------------   16.43 %
-CMake        39 mins         >>-----------------------   06.10 %
-Makefile     32 mins         >------------------------   04.92 %
-Other        11 mins         -------------------------   01.76 %
+C++          3 hrs 30 mins   >>>>>>>>>>>--------------   43.61 %
+V            1 hr 47 mins    >>>>>>-------------------   22.23 %
+Python       1 hr 33 mins    >>>>>--------------------   19.31 %
+CMake        31 mins         >>-----------------------   06.52 %
+Makefile     13 mins         >------------------------   02.89 %
+Other        10 mins         >------------------------   02.23 %
 ```
 
 <!--END_SECTION:waka-->
