@@ -19,12 +19,12 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 27 November 2023 - To: 04 December 2023
+From: 28 November 2023 - To: 05 December 2023
 
-Total Time: 5 mins
+Total Time: 45 mins
 
-C++   4 mins          >>>>>>>>>>>>>>>>>>>>>>---   88.58 %
-V     0 secs          >>>----------------------   11.42 %
+V     41 mins         >>>>>>>>>>>>>>>>>>>>>>>--   90.05 %
+C++   4 mins          >>-----------------------   09.95 %
 ```
 
 <!--END_SECTION:waka-->
