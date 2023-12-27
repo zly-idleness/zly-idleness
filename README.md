@@ -19,17 +19,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 18 December 2023 - To: 25 December 2023
+From: 19 December 2023 - To: 26 December 2023
 
-Total Time: 3 hrs 25 mins
+Total Time: 2 hrs 42 mins
 
-C++        2 hrs 13 mins   >>>>>>>>>>>>>>>>---------   64.82 %
-TeX        30 mins         >>>>---------------------   14.87 %
-Markdown   20 mins         >>>----------------------   10.00 %
-C          11 mins         >------------------------   05.70 %
-V          3 mins          -------------------------   01.77 %
-Makefile   0 secs          -------------------------   00.28 %
-Other      0 secs          -------------------------   00.22 %
+C++        2 hrs 3 mins    >>>>>>>>>>>>>>>>>>>------   76.23 %
+TeX        30 mins         >>>>>--------------------   18.87 %
+V          3 mins          >------------------------   02.25 %
+Other      0 secs          -------------------------   00.12 %
 ```
 
 <!--END_SECTION:waka-->
