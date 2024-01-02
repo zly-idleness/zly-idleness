@@ -19,13 +19,11 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 24 December 2023 - To: 31 December 2023
+From: 25 December 2023 - To: 01 January 2024
 
-Total Time: 1 hr 21 mins
+Total Time: 0 secs
 
-C++     51 mins         >>>>>>>>>>>>>>>>---------   62.29 %
-TeX     30 mins         >>>>>>>>>----------------   37.46 %
-Other   0 secs          -------------------------   00.25 %
+C++   0 secs          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
