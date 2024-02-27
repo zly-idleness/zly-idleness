@@ -19,14 +19,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 18 February 2024 - To: 25 February 2024
+From: 19 February 2024 - To: 26 February 2024
 
-Total Time: 3 hrs 10 mins
+Total Time: 3 hrs 32 mins
 
-C          3 hrs 6 mins    >>>>>>>>>>>>>>>>>>>>>>>>-   97.62 %
-Bash       3 mins          -------------------------   01.71 %
-Markdown   0 secs          -------------------------   00.47 %
-Other      0 secs          -------------------------   00.20 %
+C          3 hrs 21 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   94.57 %
+CMake      6 mins          >------------------------   03.29 %
+Bash       3 mins          -------------------------   01.54 %
+Markdown   0 secs          -------------------------   00.42 %
+Other      0 secs          -------------------------   00.18 %
 ```
 
 <!--END_SECTION:waka-->
