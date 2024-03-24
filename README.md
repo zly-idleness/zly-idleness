@@ -19,11 +19,13 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 15 March 2024 - To: 22 March 2024
+From: 16 March 2024 - To: 23 March 2024
 
-Total Time: 24 mins
+Total Time: 2 hrs 51 mins
 
-Other      24 mins         >>>>>>>>>>>>-------------   49.47 %
+Markdown    59 mins         >>>>>>>>-----------------   30.62 %
+HTML        31 mins         >>>>---------------------   16.37 %
+Other       24 mins         >>>----------------------   12.33 %
 ```
 
 <!--END_SECTION:waka-->
