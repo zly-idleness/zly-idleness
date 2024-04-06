@@ -19,12 +19,13 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 28 March 2024 - To: 04 April 2024
+From: 29 March 2024 - To: 05 April 2024
 
-Total Time: 10 mins
+Total Time: 2 hrs 18 mins
 
-Bash         8 mins          >>>>>>>>>>>>-------------   48.00 %
-Other        7 mins          >>>>>>>>>>---------------   41.44 %
+Lua          47 mins         >>>>>>>>-----------------   32.76 %
+Bash         40 mins         >>>>>>>------------------   27.55 %
+Other        7 mins          >------------------------   04.93 %
 ```
 
 <!--END_SECTION:waka-->
