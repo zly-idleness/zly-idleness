@@ -19,11 +19,11 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 03 April 2024 - To: 10 April 2024
+From: 04 April 2024 - To: 11 April 2024
 
-Total Time: 2 hrs 57 mins
+Total Time: 4 hrs 18 mins
 
-Other        1 hr 46 mins    >>>>>>>>>----------------   37.54 %
+Other        1 hr 46 mins    >>>>>>>------------------   29.29 %
 ```
 
 <!--END_SECTION:waka-->
