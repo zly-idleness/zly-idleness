@@ -19,17 +19,17 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 08 April 2024 - To: 15 April 2024
+From: 09 April 2024 - To: 16 April 2024
 
-Total Time: 2 hrs 53 mins
+Total Time: 2 hrs 34 mins
 
-CSS          35 mins         >>>>>--------------------   20.77 %
-Markdown     23 mins         >>>----------------------   13.71 %
-C            21 mins         >>>----------------------   12.55 %
-Python       13 mins         >>-----------------------   07.71 %
-BibTeX       3 mins          >------------------------   02.26 %
-Makefile     0 secs          -------------------------   00.19 %
-JavaScript   0 secs          -------------------------   00.16 %
+CSS          35 mins         >>>>>>-------------------   23.17 %
+C            21 mins         >>>>---------------------   14.06 %
+Python       13 mins         >>-----------------------   08.64 %
+Markdown     5 mins          >------------------------   03.80 %
+BibTeX       3 mins          >------------------------   02.53 %
+Makefile     0 secs          -------------------------   00.01 %
+JavaScript   0 secs          -------------------------   00.01 %
 ```
 
 <!--END_SECTION:waka-->
