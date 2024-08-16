@@ -19,13 +19,12 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 07 August 2024 - To: 14 August 2024
+From: 08 August 2024 - To: 15 August 2024
 
-Total Time: 20 mins
+Total Time: 6 mins
 
-C++    13 mins         >>>>>>>>>>>>>>>>---------   65.01 %
-V      6 mins          >>>>>>>>-----------------   31.48 %
-Diff   0 secs          >------------------------   03.51 %
+V     6 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   99.97 %
+C++   0 secs          -------------------------   00.03 %
 ```
 
 <!--END_SECTION:waka-->
