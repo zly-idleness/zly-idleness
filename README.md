@@ -19,13 +19,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 02 October 2024 - To: 09 October 2024
+From: 03 October 2024 - To: 10 October 2024
 
-Total Time: 3 mins
+Total Time: 1 hr 18 mins
 
-Markdown   1 min           >>>>>>>>>>>>>------------   53.91 %
-CSV        1 min           >>>>>>>>>>>--------------   44.81 %
-Python     0 secs          -------------------------   01.28 %
+C          1 hr 5 mins     >>>>>>>>>>>>>>>>>>>>>----   83.87 %
+Makefile   8 mins          >>>----------------------   10.84 %
+Markdown   1 min           >------------------------   02.29 %
+CSV        1 min           -------------------------   01.91 %
+Other      0 secs          -------------------------   00.59 %
 ```
 
 <!--END_SECTION:waka-->
