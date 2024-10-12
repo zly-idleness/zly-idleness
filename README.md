@@ -19,15 +19,13 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 03 October 2024 - To: 10 October 2024
+From: 04 October 2024 - To: 11 October 2024
 
-Total Time: 1 hr 18 mins
+Total Time: 1 hr 14 mins
 
-C          1 hr 5 mins     >>>>>>>>>>>>>>>>>>>>>----   83.87 %
-Makefile   8 mins          >>>----------------------   10.84 %
-Markdown   1 min           >------------------------   02.29 %
-CSV        1 min           -------------------------   01.91 %
-Other      0 secs          -------------------------   00.59 %
+C          1 hr 5 mins     >>>>>>>>>>>>>>>>>>>>>>---   87.60 %
+Makefile   8 mins          >>>----------------------   11.32 %
+Other      0 secs          -------------------------   00.62 %
 ```
 
 <!--END_SECTION:waka-->
