@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zly-idleness&label=Profile%20views&color=0e75b6&style=flat" alt="zly-idleness" /> </p>
 
 
-- 👨‍💻 I’m currently learning **OS, C++, HPC**
+- 👨‍💻 I’m **All in AI**
 
 - 🌱 I'm tring to find more fun in real life
 
