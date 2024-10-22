@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zly-idleness</h1>
+<h1 align="center">Hi 👋, I'm Luoyuan Zhang</h1>
 
 <h3 align="center">An undergraduate HITSZ CSer</h3>
 
