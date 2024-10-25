@@ -19,13 +19,13 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 16 October 2024 - To: 23 October 2024
+From: 17 October 2024 - To: 24 October 2024
 
-Total Time: 4 hrs 41 mins
+Total Time: 4 hrs 7 mins
 
-Typst   4 hrs 27 mins   >>>>>>>>>>>>>>>>>>>>>>>--   93.39 %
-C       11 mins         >------------------------   04.02 %
-Other   5 mins          -------------------------   01.82 %
+Typst      3 hrs 50 mins   >>>>>>>>>>>>>>>>>>>>>>>--   91.23 %
+C          11 mins         >------------------------   04.56 %
+Other      5 mins          >------------------------   02.06 %
 ```
 
 <!--END_SECTION:waka-->
