@@ -19,16 +19,18 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 31 October 2024 - To: 07 November 2024
+From: 01 November 2024 - To: 08 November 2024
 
-Total Time: 2 hrs 28 mins
+Total Time: 2 hrs 56 mins
 
-Typst      1 hr 11 mins    >>>>>>>>>>>>-------------   47.77 %
-C          1 hr 6 mins     >>>>>>>>>>>--------------   44.39 %
-Makefile   4 mins          >------------------------   03.21 %
-Text       4 mins          >------------------------   03.05 %
-Diff       1 min           -------------------------   00.84 %
-Other      0 secs          -------------------------   00.44 %
+C          1 hr 22 mins    >>>>>>>>>>>>-------------   46.48 %
+Typst      1 hr 11 mins    >>>>>>>>>>---------------   40.15 %
+Python     9 mins          >------------------------   05.23 %
+Makefile   4 mins          >------------------------   02.70 %
+Text       4 mins          >------------------------   02.57 %
+Markdown   2 mins          -------------------------   01.41 %
+Diff       1 min           -------------------------   00.71 %
+Other      0 secs          -------------------------   00.37 %
 ```
 
 <!--END_SECTION:waka-->
