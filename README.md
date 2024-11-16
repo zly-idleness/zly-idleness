@@ -19,16 +19,16 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 07 November 2024 - To: 14 November 2024
+From: 08 November 2024 - To: 15 November 2024
 
-Total Time: 58 mins
+Total Time: 1 hr 1 min
 
-Python     29 mins         >>>>>>>>>>>>>------------   50.95 %
-C          16 mins         >>>>>>>------------------   27.65 %
-Typst      9 mins          >>>>---------------------   16.61 %
-Markdown   2 mins          >------------------------   04.24 %
-Perl       0 secs          -------------------------   00.29 %
-Other      0 secs          -------------------------   00.00 %
+C++        22 mins         >>>>>>>>>----------------   35.63 %
+Python     20 mins         >>>>>>>>-----------------   33.50 %
+Typst      10 mins         >>>>---------------------   17.31 %
+Markdown   6 mins          >>>----------------------   10.36 %
+Bash       1 min           >------------------------   02.07 %
+CMake      0 secs          -------------------------   00.99 %
 ```
 
 <!--END_SECTION:waka-->
