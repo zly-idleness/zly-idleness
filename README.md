@@ -19,16 +19,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 06 December 2024 - To: 13 December 2024
+From: 07 December 2024 - To: 14 December 2024
 
-Total Time: 55 mins
+Total Time: 38 mins
 
-C            27 mins         >>>>>>>>>>>>-------------   48.08 %
-SSH Config   11 mins         >>>>>--------------------   21.03 %
-Markdown     6 mins          >>>----------------------   11.99 %
-Assembly     5 mins          >>-----------------------   09.14 %
-Diff         4 mins          >>-----------------------   08.59 %
-Other        0 secs          -------------------------   01.02 %
+C          27 mins         >>>>>>>>>>>>>>>>>--------   68.84 %
+Markdown   6 mins          >>>>---------------------   17.17 %
+Diff       4 mins          >>>----------------------   12.29 %
+Other      0 secs          -------------------------   01.47 %
 ```
 
 <!--END_SECTION:waka-->
