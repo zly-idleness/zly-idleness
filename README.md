@@ -19,12 +19,17 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 17 December 2024 - To: 24 December 2024
+From: 19 December 2024 - To: 26 December 2024
 
-Total Time: 4 mins
+Total Time: 52 mins
 
-C       4 mins          >>>>>>>>>>>>>>>>>>-------   71.76 %
-Other   1 min           >>>>>>>------------------   28.24 %
+TypeScript   17 mins         >>>>>>>>-----------------   31.72 %
+JavaScript   12 mins         >>>>>>-------------------   22.47 %
+Markdown     10 mins         >>>>>--------------------   19.36 %
+C            4 mins          >>-----------------------   08.29 %
+TSConfig     3 mins          >>-----------------------   07.07 %
+PowerShell   3 mins          >>-----------------------   07.02 %
+Other        1 min           >------------------------   03.26 %
 ```
 
 <!--END_SECTION:waka-->
