@@ -19,12 +19,13 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 07 January 2025 - To: 14 January 2025
+From: 08 January 2025 - To: 15 January 2025
 
-Total Time: 40 mins
+Total Time: 12 mins
 
-Python     25 mins         >>>>>>>>>>>>>>>----------   60.87 %
-Other      0 secs          -------------------------   01.33 %
+Python     12 mins         >>>>>>>>>>>>>>>>>>>>>>>>-   97.01 %
+Markdown   0 secs          -------------------------   01.63 %
+Other      0 secs          -------------------------   00.47 %
 ```
 
 <!--END_SECTION:waka-->
