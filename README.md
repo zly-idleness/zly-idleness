@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luoyuan Zhang</h1>
 
-<h3 align="center">An undergraduate HITSZ CSer</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zly-idleness&label=Profile%20views&color=0e75b6&style=flat" alt="zly-idleness" /> </p>
 
